@@ -6,7 +6,7 @@ Test task for Node jS developers. Candidate should write a simple NPM package ba
 
 - All code is in `git` repo (candidate can use his/her own github account).
 - Package name can be derived from `ExBanking`
-- Application interface is just set of public functions of `ExBanking` module (no API endpoint, no REST / SOAP API, no TCP / UDP sockets, no any external network interface).
+- Application interface is just set of public functions of `ExBanking` package (no API endpoint, no REST / SOAP API, no TCP / UDP sockets, no any external network interface).
 - Application should `not` use any database / disc storage. All needed data should be stored only in application memory.
 - Candidate can use any Node library he/she wants to, the code itself should be written using Typescript and transpiled to Javascript.
 - We expect unit tests.
