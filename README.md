@@ -65,13 +65,3 @@ type Ok = { success: true };
 ### Notes
 
 - Completed Node JS test tasks can be sent to **HR@heathmont.net**
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-109361792-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-109361792-1');
-</script>
