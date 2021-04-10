@@ -64,4 +64,4 @@ type Ok = { success: true };
 
 ### Notes
 
-- Completed Node JS test tasks can be sent to **HR@heathmont.net**
+- Completed Node JS test tasks can be sent back to your HR contact - Hanna-Mai Mändmaa
