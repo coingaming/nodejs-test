@@ -61,7 +61,3 @@ type Ok = { success: true };
 - Decreases `fromUsername`'s balance in given `currency` by `amount` value
 - Increases `toUsername`'s balance in given `currency` by `amount` value
 - Returns `balance` of `fromUser` and `toUser` in given format
-
-### Notes
-
-- Completed Node JS test tasks can be sent back to your HR contact - Hanna-Mai Mändmaa
